@@ -1,2 +1,4 @@
-git clone -- to vlone repository on local system
-git add
+git clone -- to clone repository on local system
+git add -- add the file to get track
+-- change the directory to get status of the folder
+git status -- to know the status of the file which was untracked and which need to be commit
