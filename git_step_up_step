@@ -1,4 +1,9 @@
 git clone -- to clone repository on local system
 git add -- add the file to get track
+git add * -- add multiple files
 -- change the directory to get status of the folder
 git status -- to know the status of the file which was untracked and which need to be commit
+git commit -m "message" -- commit with message
+git push origin main -- push all the files to git repository
+git pull -- to get latest update done on repository
+
