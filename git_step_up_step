@@ -1,3 +1,6 @@
+git config --global user.name""
+git config --global user.password""
+
 git clone -- to clone repository on local system
 git add -- add the file to get track
 git add * -- add multiple files
@@ -7,3 +10,16 @@ git commit -m "message" -- commit with message
 git push origin main -- push all the files to git repository
 git pull -- to get latest update done on repository
 
+new commands
+
+git branch -- what branch currently you are
+git branch -a -- to view all branches
+git add . or git add * -- to add all the untrack files in there
+git checkout newbranch -- checkout from old whatever branch and move into newbranch 
+git merge main -- merge branch code into main
+
+
+creating one more also folder and separate repository for it
+converting master --> main
+create one branch and merge with main
+create pull request and merge
